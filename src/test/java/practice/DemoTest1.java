@@ -10,5 +10,6 @@ public class DemoTest1
 	{
 		Reporter.log("Harmonine");
 		Reporter.log("Hagrid");
+		Reporter.log("Ron");
 	}
 }
