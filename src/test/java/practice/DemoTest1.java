@@ -9,5 +9,6 @@ public class DemoTest1
 	public void HarryPorterTest1()
 	{
 		Reporter.log("Harmonine");
+		Reporter.log("Hagrid");
 	}
 }

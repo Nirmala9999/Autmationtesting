@@ -8,6 +8,7 @@ public class DemoTest {
 	public void HarryPorterTest()
 	{
 		Reporter.log("Harry");
+		Reporter.log("Hagrid");
 	}
 
 }
