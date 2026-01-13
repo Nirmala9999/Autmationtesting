@@ -7,8 +7,8 @@ public class DemoTest {
 	@Test(groups="Smoke")
 	public void HarryPorterTest()
 	{
-		Reporter.log("Harry");
-		Reporter.log("Hagrid");
+		System.out.println("Harry");
+		System.out.println("Hagrid");
 	}
 
 }

@@ -8,11 +8,9 @@ public class DemoTest1
 	@Test(groups="Regression")
 	public void HarryPorterTest1()
 	{
-		Reporter.log("Harmonine");
-		Reporter.log("Ron");
-		Reporter.log("Ginny");
-		Reporter.log("Harmonine");
-		Reporter.log("Hagrid");
-		Reporter.log("Ron");
+		System.out.println("Harmonine");
+		System.out.println("Ron");
+		System.out.println("Ginny");
+		
 	}
 }
